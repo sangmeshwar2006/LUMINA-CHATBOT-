@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Clone",
+  "description": "A high-fidelity AI chatbot powered by Gemini, featuring a clean interface, streaming responses, and markdown rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
